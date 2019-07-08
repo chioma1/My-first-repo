@@ -1,2 +1,1 @@
-# hello-world
-just another repo
+just an empty repo. Nothing serious
